@@ -1,0 +1,1 @@
+This is a program allows users to guess the side of coins and record their highscore
